@@ -1,0 +1,2 @@
+# nghichGit
+nghich thoi
